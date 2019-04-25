@@ -1,4 +1,5 @@
 # Game Store
+A game store management application which involves customers buying games, rating them, reviewing them and the store earning via game sales.
 
 *Features:*
 * Seperate interface for customers and store owners
