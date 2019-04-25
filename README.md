@@ -13,3 +13,4 @@ A game store management application which involves customers buying games, ratin
 * Store owners monitor sales, income, top sold products, regular customers etc
 * Customers view games and buy game of their choice
 * Customer rate and review games
+* Store owners/Admins can look up customers, games of certain genre or price range, which customer bought which games etc
