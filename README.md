@@ -1,5 +1,6 @@
 # Game Store
-A game store management application which involves customers buying games, rating them, reviewing them and the store earning via game sales.
+A game store management application that keeps track of purchases, sales, product ratings, income and total inventory.
+
 
 ### Tools:
 * Netbeans
